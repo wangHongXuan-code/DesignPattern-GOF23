@@ -1,2 +1,2 @@
 # DesignPattern-GOF23
-The repository records the related example programmings of my learning for design patterns and design principles. If you are interested, you can exchange this part of content with me. I welcome others' criticism and advice very much.
+本仓库是我学习设计模式和设计原则时所涉及的相应例程，供感兴趣的朋友互相交流探讨学习；当然本人水平有限，其中难免有许多不妥之处，非常欢迎各位朋友不吝指正。
